@@ -7,15 +7,15 @@ body{
     min-height:100vh;
 }
 
-.login-container {
-    background: white;
-    padding: 35px;
-    width: 350px;
+.login-container{
+    background:white;
+    padding:35px;
+    width:350px;
     margin:120px auto 40px auto;
-    border-radius: 12px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-    text-align: center;
-    margin: auto;
+    border-radius:12px;
+    box-shadow:0 4px 12px rgba(0,0,0,0.1);
+    text-align:center;
+
 }
 
 h1 {
@@ -133,12 +133,12 @@ a {
     background: #fff3e0;
 }
 
-footer {
-    background: #2a2a2a;
-    color: white;
-    text-align: center;
-    padding: 25px;
-    margin-top: auto;
+footer{
+    margin-top:auto;
+    text-align:center;
+    padding:15px;
+    background:#4b2e2b;
+    color:white;
 }
 
 .cta{
